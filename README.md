@@ -37,8 +37,8 @@
 
 ### 📊 GitHub Stats:
 
-![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhitiwari13&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhitiwari13&layout=compact&theme=tokyonight)
+![Nidhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhi-ai01&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-ai01&layout=compact&theme=tokyonight)
 
 ---
 

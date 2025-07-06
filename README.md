@@ -10,14 +10,15 @@
 ### 👩‍💻 A Glimpse into My World
 
 <p align="center">
-  <!-- Working Developer GIF -->
+  <!-- Developer GIF -->
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer at work" title="Developer Vibes">
   
-  <!-- Working Writer GIF -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="Writing creatively" title="Writer Vibes">
+  <!-- Writer GIF -->
+  <img src="https://media.giphy.com/media/3o7TKtd1C2bxe5Z9s4/giphy.gif" width="350" alt="Writing a book" title="Writer Vibes">
 </p>
 
 <p align="center"><em>Switching between code and chapters ✨</em></p>
+
 
 ### 📘 She Deserves the Best
 

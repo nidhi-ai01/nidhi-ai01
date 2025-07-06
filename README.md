@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer at work" title="Developer Vibes">
   
   <!-- Writer GIF -->
-  <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAwdDQzeTQ1b3gyejRrbzhkOWxjOWt1dzh2b3U3Mmhrc3pxcXRlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Or0zPlivgpncdPFOwN/giphy.gif"  width="350" alt="Developer at work" title="Author Vibes">
+  <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAwdDQzeTQ1b3gyejRrbzhkOWxjOWt1dzh2b3U3Mmhrc3pxcXRlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Or0zPlivgpncdPFOwN/giphy.gif"  width="300" alt="Developer at work" title="Author Vibes">
   
 </p>
 

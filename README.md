@@ -30,7 +30,7 @@
 > **"She Deserves the Best"** is a heartfelt novel that explores a young woman's journey through pain, resilience, and empowerment.  
 > Blending emotional depth with themes of self-discovery and strength, the story highlights the challenges she faces in a world that often tries to silence her — and how she rises above them to claim the life and love she truly deserves.
 
-📖 [Buy Now on Amazon](https://www.amazon.in/example-book-link)
+📖 [Buy Now on Pothi](https://store.pothi.com/book/nidhi-s-she-deserves-best-journey-through-love-pain-and-healing/)
 
 ---
 

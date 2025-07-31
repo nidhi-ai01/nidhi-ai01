@@ -76,13 +76,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nidhi-ai01&theme=gruvbox&no-frame=true&column=6&margin-w=10" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 

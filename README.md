@@ -36,7 +36,6 @@
 
 ### 💼 About Me
 
-- 🔭 Currently building **NLP & AI** projects using Python, Gradio, Hugging Face  
 - ✍️ Writing emotionally rich stories — blending **tech + heart**  
 - 📫 **Business inquiries:** [nidhitiwari.feb01@gmail.com](mailto:nidhitiwari.feb01@gmail.com)  
 - 🖋️ **Author contact:** [inkbynidhi@gmail.com](mailto:inkbynidhi@gmail.com)

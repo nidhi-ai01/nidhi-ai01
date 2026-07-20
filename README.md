@@ -1,104 +1,251 @@
 <h1 align="center">Hi 👋, I'm Nidhi Tiwari</h1>
-<h3 align="center">🖋️ Author | 🤖 AI Enthusiast | 📘 Writer of "She Deserves the Best"</h3>
+
+<h3 align="center">
+🚀 Founder @ HeartHaxor • 🤖 AI Engineer • 🧠 LLM Developer • 🖋️ Author
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=AI+Researcher+%7C+Pythonista+%7C+Creative+Writer;Open+Source+Contributor+%7C+NLP+Lover;Author+%7C+Dreamer+%7C+Doer" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Building+AI+Products+That+People+Love;Founder+of+HeartHaxor;LLMs+%7C+Generative+AI+%7C+RAG+%7C+Agents;AI+Consultant+%7C+Researcher+%7C+Open+Source;Author+of+'She+Deserves+the+Best'" />
 </p>
 
 ---
 
-### 👩‍💻 A Glimpse into My World
+# 👩‍💻 About Me
 
-<p align="center">
-  <!-- Developer GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Developer at work" title="Developer Vibes">
-  
-  <!-- Writer GIF -->
-  <img src ="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTAwdDQzeTQ1b3gyejRrbzhkOWxjOWt1dzh2b3U3Mmhrc3pxcXRlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Or0zPlivgpncdPFOwN/giphy.gif"  width="300" alt="Developer at work" title="Author Vibes">
-  
+I'm an AI Engineer passionate about building intelligent products that solve real-world problems.
+
+Currently I work across **LLMs, RAG systems, AI Agents, NLP, Computer Vision, and Generative AI**, while also building my startup **HeartHaxor**, an AI-powered emotional companion designed to make meaningful conversations more human.
+
+Alongside technology, I enjoy writing emotionally driven stories and published my debut novel **"She Deserves the Best."**
+
+---
+
+## 🚀 Current Roles
+
+- 💙 Founder — **HeartHaxor**
+- 💼 AI Consultant — **Surya's MiB Enterprises**
+- 🤖 AI Engineer & Full Stack AI Developer
+- 📚 Author — *She Deserves the Best*
+- 🌍 Open Source Contributor
+
+---
+
+# 🚀 Currently Building
+
+### ❤️ HeartHaxor
+
+An AI-powered emotional companion focused on meaningful conversations through
+
+- Long-term Memory
+- Personalized Conversations
+- AI Companion
+- Emotional Intelligence
+- Mental Wellness
+- Generative AI
+- LLM-powered Experiences
+
+---
+
+# 💡 Interests
+
+- Large Language Models
+- AI Agents
+- Retrieval Augmented Generation (RAG)
+- NLP
+- Deep Learning
+- Computer Vision
+- AI in Healthcare
+- Startup Building
+- Human-Centered AI
+
+---
+
+# 📚 Featured Projects
+
+### ❤️ HeartHaxor
+AI Companion Platform powered by LLMs.
+
+**Tech**
+Next.js • TypeScript • MongoDB • Node.js • LLM APIs • TailwindCSS
+
+---
+
+### 📄 AI Resume Analyzer
+
+Upload Resume + Job Description
+
+Features
+
+- ATS Score
+- Resume Improvement
+- Missing Skills Detection
+- Missing Projects Suggestion
+- AI Resume Feedback
+- Resume Optimization
+
+---
+
+### 🚚 ASR Freight Carriers
+
+AI-powered Transport Management Platform
+
+- Invoice Generation
+- Fleet Management
+- Consignment Tracking
+- Analytics Dashboard
+
+---
+
+### 🧠 HealMind AI
+
+Healthcare AI Platform
+
+- Medical AI Assistant
+- Disease Insights
+- AI Healthcare Research
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
+
 </p>
 
-<p align="center"><em>Switching between code and chapters ✨</em></p>
+### AI / ML
 
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+LLMs • RAG • AI Agents • LangChain • HuggingFace • OpenAI API • Groq • Prompt Engineering
+
+---
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind"/>
+
+</p>
+
+---
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase"/>
+
+</p>
+
+---
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel"/>
+
+</p>
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nidhi-ai01&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-ai01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=nidhi-ai01&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nidhi-ai01&theme=tokyonight&column=4&margin-w=15"/>
+
+</p>
+
+---
+
+# 📖 Published Book
+
+<p align="center">
+
+<img src="https://github.com/nidhi-ai01/nidhi-ai01/raw/main/book_cover.jpg" width="260"/>
+
+</p>
 
 ### 📘 She Deserves the Best
 
-<p align="center">
-  <img src="https://github.com/nidhi-ai01/nidhi-ai01/raw/main/book_cover.jpg" width="300" alt="Book Cover">
-</p>
+A heartfelt novel about resilience, healing, and self-worth.
 
-> **"She Deserves the Best"** is a heartfelt novel that explores a young woman's journey through pain, resilience, and empowerment.  
-> Blending emotional depth with themes of self-discovery and strength, the story highlights the challenges she faces in a world that often tries to silence her — and how she rises above them to claim the life and love she truly deserves.
+📖 **Available on Pothi**
 
-📖 [Buy Now on Pothi](https://store.pothi.com/book/nidhi-s-she-deserves-best-journey-through-love-pain-and-healing/)
+https://store.pothi.com/book/nidhi-s-she-deserves-best-journey-through-love-pain-and-healing/
 
 ---
 
-### 💼 About Me
-
-- ✍️ Writing emotionally rich stories — blending **tech + heart**  
-- 📫 **Business inquiries:** [nidhitiwari.feb01@gmail.com](mailto:nidhitiwari.feb01@gmail.com)  
-- 🖋️ **Author contact:** [inkbynidhi@gmail.com](mailto:inkbynidhi@gmail.com)
-
----
-
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/nidhis13" title="LinkedIn Profile">
-    <img src="https://img.shields.io/badge/LinkedIn-nidhis13-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://discordapp.com/users/haxor_13" title="Discord Chat">
-    <img src="https://img.shields.io/badge/Discord-haxor__13-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/nidhis13">
+<img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Tiwari-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:nidhitiwari.feb01@gmail.com">
+<img src="https://img.shields.io/badge/Email-Business-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="mailto:inkbynidhi@gmail.com">
+<img src="https://img.shields.io/badge/Author-Mail-pink?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+# 💬 Quote
 
-<p>
-  <img title="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img title="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img title="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img title="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-  <img title="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-  <img title="Gradio" src="https://img.shields.io/badge/Gradio-FFB6C1?style=flat-square&logo=gradio&logoColor=black"/>
-  <img title="Hugging Face" src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img title="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img title="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code"/>
-  <img title="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter"/>
-  <img title="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
-  <img title="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
-  <img title="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-  <img title="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-</p>
+> *"Technology can solve problems. Stories can heal people. I aspire to build both."*
+
+— **Nidhi Tiwari**
 
 ---
-
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhi-ai01&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-ai01&layout=compact&theme=tokyonight" height="180" />
+
+<img src="https://komarev.com/ghpvc/?username=nidhi-ai01&label=Profile+Views&color=blueviolet&style=flat"/>
+
 </p>
 
 ---
 
-### 💬 Daily Inspiration
+<h3 align="center">
 
-> *“She remembered who she was and the game changed.”*  
-> — *Nidhi Tiwari*
+⭐ Building AI that understands people, creating products that make an impact, and writing stories that stay with readers.
 
----
-
-### 👁️ Visitor Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nidhi-ai01&label=Profile+views&color=f06292&style=flat" />
-</p>
-
----
-
-⭐ *Thanks for visiting! Let’s build tech and tell stories that matter.*
+</h3>

@@ -1,108 +1,73 @@
 <h1 align="center">Hi 👋, I'm Nidhi Tiwari</h1>
 
 <h3 align="center">
-🚀 Founder @ HeartHaxor • 🤖 AI Engineer • 🧠 LLM Developer • 🖋️ Author
+❤️ Founder @ HeartHaxor • 🤖 AI Engineer • 🧠 AI Consultant • 🖋️ Author
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F78DA7&center=true&vCenter=true&width=700&lines=Building+AI+Products+That+People+Love;Founder+of+HeartHaxor;LLMs+%7C+Generative+AI+%7C+RAG+%7C+Agents;AI+Consultant+%7C+Researcher+%7C+Open+Source;Author+of+'She+Deserves+the+Best'" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=FF4F81&center=true&vCenter=true&width=900&lines=Building+AI+that+understands+people.;Founder+of+HeartHaxor.;AI+Engineer+%7C+LLMs+%7C+Generative+AI.;Teaching+AI.+Building+Dreams.+Writing+Stories."/>
+</p>
+
+<p align="center">
+<b>Building technology with empathy at its core ❤️</b>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+# ❤️ About Me
 
-I'm an AI Engineer passionate about building intelligent products that solve real-world problems.
+I'm an AI Engineer passionate about creating products that make technology feel more human.
 
-Currently I work across **LLMs, RAG systems, AI Agents, NLP, Computer Vision, and Generative AI**, while also building my startup **HeartHaxor**, an AI-powered emotional companion designed to make meaningful conversations more human.
+Rather than building AI that simply answers questions, I believe in building AI that remembers, understands, and genuinely connects with people.
 
-Alongside technology, I enjoy writing emotionally driven stories and published my debut novel **"She Deserves the Best."**
+I'm the **Founder of HeartHaxor**, an AI companion designed to provide meaningful conversations through emotional intelligence and long-term memory. HeartHaxor is my biggest passion, and I'm dedicated to shaping the future of human-centered AI. :contentReference[oaicite:0]{index=0}
 
----
+Alongside building AI products, I also
 
-## 🚀 Current Roles
-
-- 💙 Founder — **HeartHaxor**
-- 💼 AI Consultant — **Surya's MiB Enterprises**
-- 🤖 AI Engineer & Full Stack AI Developer
-- 📚 Author — *She Deserves the Best*
-- 🌍 Open Source Contributor
+- 🤖 Work as an **AI Consultant** at **Surya's MiB Enterprises**
+- 👩‍🏫 Teach students Artificial Intelligence
+- 🎨 Design products and presentations using **Canva**
+- 🖋️ Write stories that explore emotions and human experiences
 
 ---
 
-# 🚀 Currently Building
+# ❤️ HeartHaxor
 
-### ❤️ HeartHaxor
+<p align="center">
 
-An AI-powered emotional companion focused on meaningful conversations through
+### **An AI Companion that remembers, understands and grows with you.**
 
-- Long-term Memory
-- Personalized Conversations
-- AI Companion
-- Emotional Intelligence
-- Mental Wellness
-- Generative AI
-- LLM-powered Experiences
+</p>
 
----
+HeartHaxor isn't just another chatbot.
 
-# 💡 Interests
+It's an emotional AI companion built to create meaningful conversations by remembering past interactions, understanding emotions, and being there when people need someone to talk to. :contentReference[oaicite:1]{index=1}
 
-- Large Language Models
-- AI Agents
-- Retrieval Augmented Generation (RAG)
-- NLP
-- Deep Learning
-- Computer Vision
-- AI in Healthcare
-- Startup Building
-- Human-Centered AI
+### ✨ Vision
 
----
+> To build AI that doesn't just respond...
+>
+> but truly understands.
 
-# 📚 Featured Projects
+### 🌟 Features
 
-### ❤️ HeartHaxor
-AI Companion Platform powered by LLMs.
-
-**Tech**
-Next.js • TypeScript • MongoDB • Node.js • LLM APIs • TailwindCSS
+- ❤️ Emotional Intelligence
+- 🧠 Long-Term Memory
+- 💬 Natural Conversations
+- 🤝 Personalized Check-ins
+- 🌱 Self Growth Companion
+- 🛡️ Safe & Judgment-Free Space
+- ⚡ AI Powered Conversations
 
 ---
 
-### 📄 AI Resume Analyzer
+# 🚀 What I'm Working On
 
-Upload Resume + Job Description
-
-Features
-
-- ATS Score
-- Resume Improvement
-- Missing Skills Detection
-- Missing Projects Suggestion
-- AI Resume Feedback
-- Resume Optimization
-
----
-
-### 🚚 ASR Freight Carriers
-
-AI-powered Transport Management Platform
-
-- Invoice Generation
-- Fleet Management
-- Consignment Tracking
-- Analytics Dashboard
-
----
-
-### 🧠 HealMind AI
-
-Healthcare AI Platform
-
-- Medical AI Assistant
-- Disease Insights
-- AI Healthcare Research
+- ❤️ Building HeartHaxor
+- 🤖 AI Products using LLMs
+- 🧠 Generative AI
+- 📚 Teaching Artificial Intelligence
+- 🌍 Making AI more human
 
 ---
 
@@ -111,80 +76,66 @@ Healthcare AI Platform
 ### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts"/>
-
+<img src="https://skillicons.dev/icons?i=python,js,ts,html,css"/>
 </p>
 
-### AI / ML
+### AI & Machine Learning
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-LLMs • RAG • AI Agents • LangChain • HuggingFace • OpenAI API • Groq • Prompt Engineering
-
----
+- Large Language Models (LLMs)
+- Generative AI
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Hugging Face
+- PyTorch
+- TensorFlow
+- OpenAI APIs
+- Anthropic APIs
+- Groq APIs
 
 ### Web Development
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind"/>
-
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind"/>
 </p>
-
----
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
 </p>
 
----
-
-### DevOps & Tools
+### Design & Productivity
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
+
+- Canva
+- Figma
 
 ---
 
-# 📈 GitHub Stats
+# 🌍 Connect With Me
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nidhi-ai01&show_icons=true&theme=tokyonight"/>
+<a href="https://hearthaxor.com">
+<img src="https://img.shields.io/badge/🌐%20HeartHaxor-hearthaxor.com-ff4f81?style=for-the-badge"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhi-ai01&layout=compact&theme=tokyonight"/>
+<br><br>
 
-</p>
+<a href="https://www.linkedin.com/in/nidhis13">
+<img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Tiwari-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
----
+<a href="mailto:admin@hearthaxor.in">
+<img src="https://img.shields.io/badge/HeartHaxor-admin@hearthaxor.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=nidhi-ai01&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nidhi-ai01&theme=tokyonight&column=4&margin-w=15"/>
+<a href="mailto:nidhitiwari.feb01@gmail.com">
+<img src="https://img.shields.io/badge/Personal%20Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
@@ -194,58 +145,34 @@ LLMs • RAG • AI Agents • LangChain • HuggingFace • OpenAI API • Groq
 
 <p align="center">
 
-<img src="https://github.com/nidhi-ai01/nidhi-ai01/raw/main/book_cover.jpg" width="260"/>
+<img src="book_cover.jpg" width="260"/>
 
 </p>
 
-### 📘 She Deserves the Best
+## 📘 She Deserves the Best
 
-A heartfelt novel about resilience, healing, and self-worth.
-
-📖 **Available on Pothi**
-
-https://store.pothi.com/book/nidhi-s-she-deserves-best-journey-through-love-pain-and-healing/
+A heartfelt novel exploring resilience, healing, self-worth, and the courage to choose yourself.
 
 ---
 
-# 🌐 Connect With Me
+# 💭 Philosophy
 
-<p>
+> **Technology becomes meaningful when it understands people, not just their prompts.**
 
-<a href="https://www.linkedin.com/in/nidhis13">
-<img src="https://img.shields.io/badge/LinkedIn-Nidhi%20Tiwari-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:nidhitiwari.feb01@gmail.com">
-<img src="https://img.shields.io/badge/Email-Business-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="mailto:inkbynidhi@gmail.com">
-<img src="https://img.shields.io/badge/Author-Mail-pink?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 💬 Quote
-
-> *"Technology can solve problems. Stories can heal people. I aspire to build both."*
-
-— **Nidhi Tiwari**
+**— Nidhi Tiwari**
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=nidhi-ai01&label=Profile+Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=nidhi-ai01&label=Profile%20Views&color=ff4f81&style=flat"/>
 
 </p>
 
 ---
 
-<h3 align="center">
+<h2 align="center">
 
-⭐ Building AI that understands people, creating products that make an impact, and writing stories that stay with readers.
+❤️ Building HeartHaxor, one meaningful conversation at a time.
 
-</h3>
+</h2>

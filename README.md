@@ -35,7 +35,7 @@ Alongside building AI products, I also
 
 <p align="center">
 
-### **An AI Companion that remembers, understands and grows with you.**
+### **An AI Companion that remembers, understands without any judgments and grows with you.**
 
 </p>
 
